@@ -3,7 +3,7 @@
 ## 🤔 Q. How to upload my project from my computer to github?
  1) Make sure that you have GitBash installed and connected to your Github account. You can find many YouTube videos on how to do this.
  2) Open your local project folder using GitBash
- 3) `git init` use this command to initialize your repository. 
+ 3) `git init` use this command to initialize your repository. a
  4) `git add .` use this command to add your files into git.
  5) `git commit -m "put a comment here"` this command will add a comment so that yo later know what was the commit about. 
  6) `git branch -M main` This command will set the branch to main.
